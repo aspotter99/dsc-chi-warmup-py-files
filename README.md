@@ -210,7 +210,7 @@ fight_songs.head()
 
 Notice that the `Year` column has **some weird values** in it, and is an object dtype (specifically, a string)
 
-**Write** a quick function to turn the value `"Unknown"` into `np.nan`, wherever it appears in the dataframe.  
+Write a quick function to **turn the value `"Unknown"` into `np.nan`**, wherever it appears in the dataframe.  
 
 **Include two parameters** (objects inside the parens of the function that are inputs used inside the function): 
 - the dataframe 
@@ -247,7 +247,7 @@ print(f'fight_songs now has {fight_songs.year.isnull().sum()} nulls')
     fight_songs now has 5 nulls
 
 
-Now, **write a function** that removes all the nulls.
+Now, write a function that **removes all the nulls**.
 
 Again, use the dataframe as a parameter to the function 
 
@@ -303,7 +303,7 @@ fight_songs.info()
     memory usage: 11.2+ KB
 
 
-Finally, **write a function** to turn the `type` of the `year` column into an `int`
+Finally, write a function to **turn the `type` of the `year` column into an `int`**
 
 This time, have the column be a parameter
 
@@ -334,7 +334,7 @@ fight_songs['year'] = turn_column_int(fight_songs['year'])
 # ])
 ```
 
-Now, **write a function** that loads fight_songs.csv into a dataframe and returns it. *(It doesn't need any parameters!)*
+Now, write a function that **loads fight_songs.csv** into a dataframe and returns it. *(It doesn't need any parameters!)*
 
 
 ```python
@@ -399,7 +399,7 @@ def load_clean_fight_songs():
 
 Open a new **text file**, and **save it** as `data_cleaning.py`
 
-**Write out import statements** for pandas an numpy, using the same aliases we always do, in the same manner we always do
+**Write out import statements for pandas and numpy**, using the same aliases we always do, in the same manner we always do
 
 **Write out** (in order to get your fingers some muscle memory time) **all five functions** you made above, in the order you made them
 
