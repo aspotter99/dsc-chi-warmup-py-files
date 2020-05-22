@@ -552,6 +552,8 @@ Individually, they are used to:
 
 Switch .py files with someone from the cohort
 
+***Windows note:*** the path for navigating folders is different in Windows than in Mac, so cross-os switching means altering the path load_fight_songs() uses to load the csv in the .py file. 
+
 Save it in this repo as `testing_data_cleaning.py`
 
 ***Restart your kernal***
