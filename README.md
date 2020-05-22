@@ -456,7 +456,7 @@ The workflow that will make you an efficient data scientist goes something like 
 
 #### There are -several- advantages to doing this
 
-- **Jupyer Notebooks are MeSsY**
+- **Jupyter Notebooks are MeSsY**
     - Easy to jump around cells and **lose track** of what you're doing
     - Easy to **change the value of a variable** and not remember it later
     - Not that easy to **combine work**
@@ -469,12 +469,12 @@ The workflow that will make you an efficient data scientist goes something like 
     
     
 - **Saves time in the long run**
-    - Might seem like not worth the time investment at first, but as your projects become bigger and more sprawling the problems it helps mitigate will become laRG**ER**
+    - Might not seem worth the time investment at first, but as your projects become bigger and more sprawling the problems it helps mitigate will become laRG**ER**
     - Doing this forces a **marathon mentality over a sprint mentality**, and helps keep one focused on small, necessary tasks
 
 
 ![](viz/siren.gif)     ![](viz/siren.gif)
-# Is This Required for the Project? 
+# Is This Required for the Project?
 ![](viz/siren.gif)     ![](viz/siren.gif)
 
 No
@@ -482,4 +482,4 @@ No
 
 ### Should we try it?
 
-Sure !  But if it seems like it's becoming a hinderance to getting stuff done, go ahead and skip it
+Sure!  But if it seems like it's becoming a hinderance to getting stuff done, go ahead and skip it
